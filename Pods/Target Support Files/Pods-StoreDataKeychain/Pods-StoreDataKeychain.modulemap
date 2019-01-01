@@ -1,0 +1,6 @@
+framework module Pods_StoreDataKeychain {
+  umbrella header "Pods-StoreDataKeychain-umbrella.h"
+
+  export *
+  module * { export * }
+}
